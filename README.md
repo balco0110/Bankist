@@ -1,4 +1,4 @@
-Project Readme
+##Project Readme
 This repository contains code for a website with various functionalities such as modals, scrolling behavior, tabbed components, navigation animations, sticky navigation, section reveal animations, lazy loading images, and a slider. Below is an overview of the project structure and functionalities.
 
 Table of Contents
